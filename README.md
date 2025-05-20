@@ -1,5 +1,9 @@
 # AWS Project: End-to-End AWS Web Application
 
+## Architecture Diagram
+
+![Image](https://github.com/user-attachments/assets/1d21b90a-eb59-47b4-a379-a60c6286e699)
+
 ## Project Description and Resources Used
 
 For this project, I’m building a full end-to-end web application inspired by Amazon’s original workshop—where you can actually request a ride from a unicorn! 🦄 The site will guide users through creating an account, logging in, and accessing an interactive map powered by ArcGIS to summon their magical ride.
