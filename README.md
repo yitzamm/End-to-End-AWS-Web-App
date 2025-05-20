@@ -2,9 +2,9 @@
 
 ## Project Description and Resources Used
 
-  For this project I’m building an end-to-end application where I can request a unicorn to give me a ride (from the original Amazon Workshop). The website should take me through the process of creating an account, logging in, and accessing the map (powered by ArcGIS) to ask for the ride.
+For this project, I’m building a full end-to-end web application inspired by Amazon’s original workshop—where you can actually request a ride from a unicorn! 🦄 The site will guide users through creating an account, logging in, and accessing an interactive map powered by ArcGIS to summon their magical ride.
 
-  Link to the tutorial followed: [Tiny Technical Tutorials](https://www.youtube.com/watch?v=K6v6t5z6AsU)
+Link to the tutorial followed: [Tiny Technical Tutorials](https://www.youtube.com/watch?v=K6v6t5z6AsU)
 
 ## AWS Services and Integration
 
