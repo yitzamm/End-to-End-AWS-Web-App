@@ -12,8 +12,8 @@ Link to the tutorial followed: [Tiny Technical Tutorials](https://www.youtube.co
 
 ## AWS Services and Integration
 
-- GitHub - Used as a source control system to create the wildryde-sites repo where the code will live.
-- AWS Amplify - Amplify will allow me to build and host the static website. It will be hooked up to the wildrydes-sites GitHub repo for retrieving the code, and help trigger the CICD pipeline automatically.
+- GitHub - Used as a source control system to create the repo where the code will live.
+- AWS Amplify - Amplify will allow me to build and host the static website. It will be hooked up to the GitHub repo for retrieving the code, and help trigger the CICD pipeline automatically.
 - Amazon Cognito - Used for authentication and registration. The user pool will be set up manually and then updated on the code to hook things up.
 - AWS Lambda - Used to create/trigger a function when the end user requests a ride.
 - Amazon DynamoDB - After the Lambda function is invoked, the function will select a unicorn for them and record the request in the DynamoDB table and respond to the front end with details about the unicorn that will come and pick them up.
