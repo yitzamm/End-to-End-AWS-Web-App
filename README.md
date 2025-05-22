@@ -19,4 +19,4 @@ Link to the tutorial followed: [Tiny Technical Tutorials](https://www.youtube.co
 - AWS IAM - Used to create an execution role to grant Lambda write permissions to DynamoDB.
 - API Gateway - Used to build HTTP, REST and WebSocket APIs. It will be in charge of invoking the Lambda function.
 
-Step-by-step project summary: https://docs.google.com/document/d/1pO0Kc02djy6pl5VeJXP4KS10JA3yOiBfJi54SVl3BDw/edit?usp=sharing
+Step-by-step project summary: https://drive.google.com/file/d/1vU64uZzDsTDYpq3J01dhSdE8jOOdfd1E/view?usp=sharing
