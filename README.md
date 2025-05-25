@@ -1,7 +1,7 @@
 # AWS Project: End-to-End AWS Web Application
 May 20, 2025
 
-For this project, I’m building a full end-to-end web application inspired by Amazon’s original workshop—where you can actually request a ride from a unicorn! 🦄 The site will guide users through creating an account, logging in, and accessing an interactive map powered by ArcGIS to summon their magical ride.
+In this project, I’m developing a full end-to-end web application inspired by Amazon’s original workshop, where users can actually summon a ride from a unicorn! 🦄 The application features a seamless user journey: from account creation and secure login to an interactive, real-time map powered by ArcGIS, enabling users to request their magical ride with just a few clicks. This hands-on build combines modern authentication flows, geospatial mapping, and dynamic frontend-backend integration to deliver an immersive and technically robust experience.
 
 Link to the tutorial followed: [Tiny Technical Tutorials](https://www.youtube.com/watch?v=K6v6t5z6AsU)
 
@@ -19,4 +19,4 @@ Link to the tutorial followed: [Tiny Technical Tutorials](https://www.youtube.co
 - AWS IAM - Used to create an execution role to grant Lambda write permissions to DynamoDB.
 - API Gateway - Used to build HTTP, REST and WebSocket APIs. It will be in charge of invoking the Lambda function.
 
-Step-by-step project summary: https://drive.google.com/file/d/1vU64uZzDsTDYpq3J01dhSdE8jOOdfd1E/view?usp=sharing
+Step-by-step project summary: https://drive.google.com/file/d/1vU64uZzDsTDYpq3J01dhSdE8jOOdfd1E/view
